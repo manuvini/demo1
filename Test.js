@@ -1,3 +1,10 @@
 function some () {
-    
+ 
+
+   
+}
+
+function we(){
+
+
 }
